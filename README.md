@@ -1,20 +1,19 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hello 🌎, I'm Renato Resabala
+### Hello 🌎, I'm Yash
 
-With over 8 years of experience as a Software Engineer, I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
+ I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
 
 
   - 🔭 I’m currently working on upgrading java applications from jdk 8 to 21.
-  - 🌱 I’m currently learning; Junit, Jakarta, Spring Security, Spring Cloud.
-  - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP,  Lumen, Laravel,  C#, .NET, Java, Spring Boot, Scrum, Google Cloud Platform, GKE, GCE, CI/CD, TDD, DDD, Docker, Kubernetes**
+  - 🌱 I’m currently learning; Django, Numpy, Spring Boot, Web development.
+  - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP, Laravel,  C#,  Java, Spring Boot, Scrum, Google Cloud Platform, DDD, Docker, Kubern**
   - ⚡ Fun fact: I look like a hobbit.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
-<a href="https://www.linkedin.com/in/renato-r-611795133/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Renato_Resabala" height="40" width="60" ></i>
+
+<a href="https://www.linkedin.com/in/yash-yadav-y05/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="yash" height="40" width="60" ></i>
 </a>
 </p>
 
@@ -34,7 +33,7 @@ With over 8 years of experience as a Software Engineer, I'm on a mission to crea
 </div>
 <p align="center">
   <a href="https://github.com/RResabala2015">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RResabala2015&&theme=tokyonight" alt="RResabala2015" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasx50&&theme=tokyonight" alt="yasx50" />
   </a>
 </p>
 
