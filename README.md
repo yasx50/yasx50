@@ -7,7 +7,7 @@
 
   - 🔭 I’m currently working on upgrading java applications from jdk 8 to 21.
   - 🌱 I’m currently learning; Django, Numpy, Spring Boot, Web development.
-  - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP, Laravel,  C#,  Java, Spring Boot, Scrum, Google Cloud Platform, DDD, Docker, Kubern**
+  - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP, Laravel,  C#,  Java, Spring Boot, Scrum, Google Cloud Platform, DDD, Docker
   - ⚡ Fun fact: I look like a hobbit.
 
 <h3 align="left">Connect with me:</h3>
