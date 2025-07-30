@@ -1,31 +1,73 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+# 👋 Hey there! I'm Yash
 
-### Hello 🌎, I'm Yash
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Open+Source+Contributor)
+  
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yash50.me-00D9FF?style=for-the-badge&logoColor=white)](https://yash50.me)
+  [![Email](https://img.shields.io/badge/📧_Email-yasxcode@gmail.com-FF6B6B?style=for-the-badge)](mailto:yasxcode@gmail.com)
+  
+</div>
 
- I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
+---
 
+## 🚀 About Me
 
-  - 🔭 I’m currently working on upgrading java applications from jdk 8 to 21.
-  - 🌱 I’m currently learning; Django, Numpy, Spring Boot, Web development.
-  - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP, Laravel,  C#,  Java, Spring Boot, Scrum, Google Cloud Platform, DDD, Docker
-  - ⚡ Fun fact: I look like a hobbit.
+Full Stack Developer passionate about creating intelligent web applications and solving real-world problems with code. I specialize in modern web technologies and AI/ML integration.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- 🌐 Check out my portfolio: **[yash50.me](https://yash50.me)**
+- 🔭 Currently working on AI-powered web applications
+- 🌱 Learning advanced cloud architecture and blockchain
+- 💬 Ask me about React, Python, or AI/ML
+- 📫 Reach me at: **yasxcode@gmail.com**
 
-<a href="https://www.linkedin.com/in/yash-yadav-y05/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="yash" height="40" width="60" ></i>
-</a>
-</p>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasx50&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
+## 🛠️ Tech Stack
 
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-------
-<h3 align="left">Activity:</h3>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
 
-[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yasx50&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/yasx50/github-readme-activity-graph)
+### AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-------
-[Yash](https://github.com/yasx50)
-26/07/2024
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Website-yash50.me-00D9FF?style=for-the-badge&logoColor=white)](https://yash50.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-yadav-y05/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasxcode@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasx50)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building the future, one commit at a time! 🚀"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=yasx50&color=00D9FF&style=for-the-badge)
+
+</div>
